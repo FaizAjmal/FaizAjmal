@@ -1,8 +1,20 @@
-<!-- Dark Theme Profile Header -->
 <div align="center">
   <img src="https://github.com/Saboo24/portofolio3/blob/main/portofolio3/images/img.jpg" alt="Avatar" width="150" height="150" style="border-radius: 50%;">
-  <h1>👋 Hi, I'm Ajmal Faiz</h1>
-  <p><i>Aspiring Data Scientist | Computer Science Enthusiast | Problem Solver</i></p>
+  
+  <h1><b>Ajmal Faiz</b></h1>
+  
+  <h3>🎓 Student & AI/ML Enthusiast</h3>
+  
+  <p>📍 Gorakhpur, Uttar Pradesh, India</p>
+  
+  <p>
+    <a href="mailto:ajmalfaiz@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    </a>
+    <a href="https://github.com/FaizAjmal">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    </a>
+  </p>
 </div>
 
 ---
