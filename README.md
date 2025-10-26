@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Saboo24/portofolio3/blob/main/portofolio3/images/img.jpg" alt="Avatar" width="150" height="150" style="border-radius: 50%;">
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Ajmal%20Faiz&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Student%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+
   <h1><b>Ajmal Faiz</b></h1>
   
   <h3>🎓 Student & AI/ML Enthusiast</h3>
